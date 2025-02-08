@@ -215,6 +215,11 @@ h1 {
   transition: 0.3s ease;
 }
 
+.change-color:hover,
+.change-color:focus {
+  background-color: #6c8cff;
+}
+
 p,
 p > span {
   font-family: 'Montserrat', sans-serif;
